@@ -1,0 +1,919 @@
+{
+  "robin hsr": {
+    "nome": "Robin",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3200+",
+      "ATQ: 3000-4400+",
+      "DEF: 800+",
+      "SPD: 120+ (ganha mais se não for a primeira a agir)",
+      "Recarga de Energia: 119,44%+"
+    ],
+    "comentario": "Com essa build, até o Blade te elogia mo."
+  },
+  "raiden genshin": {
+    "nome": "Raiden Shogun",
+    "jogo": "Genshin Impact",
+    "build": [
+      "Recarga de Energia: 200%+",
+      "ATQ%: 1700+",
+      "Taxa Crítica: 60%",
+      "Dano Crítico: 160%+"
+    ],
+    "comentario": "Se não causar one phase no mundo inteiro nem é a Shogun que eu conheço!"
+  },
+
+ "blade hsr": {
+    "nome": "Blade",
+    "jogo": "HSR",
+    "build": [
+      "HP: 6000 - 7200+",
+      "DEF: 800 - 900+",
+      "CRIT RATE: 80% - 100%",
+      "CRIT DMG: 150 - 180%+",
+      "SPD: 135 (ou um spd a mais que o buffer)"
+    ],
+    "comentario": "Blade com essa build vira praticamente imbatível!"
+  },
+  "acheron hsr": {
+    "nome": "Acheron",
+    "jogo": "HSR",
+    "build": [
+      "HP: 2800-3000+",
+      "DEF: 800+",
+      "ATK: 2900-3200+",
+      "CRIT RATE: 80-90%+",
+      "CRIT DMG: 160-180%+",
+      "SPD: 101 - 134+"
+    ],
+    "comentario": "Com essa build a Acheron chega chegando e não deixa espaço pra moleza."
+  },
+  "aglaea hsr": {
+    "nome": "Aglaea",
+    "jogo": "HSR",
+    "build": [
+      "ATK: 1900 - 2200+",
+      "HP: 2800 - 3100",
+      "DEF: 900+",
+      "CRIT RATE: 80 - 100%",
+      "CRIT DMG: 100 - 140%+",
+      "Energy Regen: 119.4%"
+    
+    ],
+    "comentario": "Aglaea com essa build é puro controle e dano na medida certa"
+  },
+  "anaxa hsr": {
+    "nome": "Anaxa",
+    "jogo": "HSR",
+    "build": [
+      "ATQ: 2600 - 3000+",
+      "HP: 2800+",
+      "DEF: 1100+",
+      "TAXA CRÍTICA: 90% - 100%",
+      "DANO CRÍTICO: 100% - 120%+ (Antes da Habilidade do Traço)",
+      "VEL: 134+"
+    ],
+    "comentario": "Anaxa com essa build tá pronto pra eliminar geral antes de respirar."
+  },
+  "archer hsr": {
+    "nome": "Archer",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3000+",
+      "DEF: 900+",
+      "ATQ: 2800 - 3200+",
+      "TAXA CRÍTICA: 100% (Depois dos Buffs do Time)",
+      "DANO CRÍTICO: 140% - 180%+",
+      "VEL: Velocidade Base"
+    ],
+    "comentario": "Ele só precisa do time certo pra ficar full crítico e servir flechada com emoção!"
+  },
+  "argenti hsr": {
+    "nome": "Argenti",
+    "jogo": "HSR",
+    "build": [
+      "HP: 2900 - 3000+",
+      "DEF: 800+",
+      "ATQ: 2600 - 3000+",
+      "TAXA CRÍTICA: 75% - 80% (Incluindo Talento)",
+      "DANO CRÍTICO: 150% - 160%+ (Com Buffs Ativos)",
+      "VEL: Velocidade Base (Se estiver Sparkle ou Bronya ) / 134"
+    ],
+    "comentario": "Brilha mais que glitter em parada LGBT quando buffado"
+  },
+  "aventurine hsr": {
+    "nome": "Aventurine",
+    "jogo": "HSR",
+    "build": [
+      "HP: 2900 - 3000+",
+      "DEF: 4000+",
+      "TAXA CRÍTICA: 60% - 90%+ (Incluindo Traço)",
+      "DANO CRÍTICO: 110% - 170%+",
+      "VEL: 106 ou 134+"
+    ],
+    "comentario": "Aventurine é um muralha com estilo e ainda mete crítico na cara dos oponentes."
+  },
+  "asta hsr": {
+    "nome": "Asta",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3600 - 4400+",
+      "DEF: 900 - 1100+"
+    ],
+    "comentario": "Simples, direta e funcional. Asta é o motorzinho do time literalmente!"
+  },
+  "arlan hsr": {
+    "nome": "Arlan",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3100+",
+      "DEF: 800+",
+      "ATQ: 2400 - 2800+",
+      "TAXA CRÍTICA: 60% - 70%+",
+      "DANO CRÍTICO: 120% - 140%+",
+      "VEL: Velocidade Base / 134 (Recomendado) / 143"
+    ],
+    "comentario": "O Arlan só quer bater e ser batido Um Emo style até na build ( parece eu )."
+  },
+  "bailu hsr": {
+    "nome": "Bailu",
+    "jogo": "HSR",
+    "build": [
+      "HP: 5600 - 6400+",
+      "DEF: 800 - 1100+",
+      "VEL: 134 (Recomendado) / 143 / 160",
+      "RECARGA DE ENERGIA: 119.44%+"
+    ],
+    "comentario": "Com uma Bailu dessas cura até coração partido"
+  },
+  "black swan hsr": {
+    "nome": "Black Swan",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3000+",
+      "DEF: 900+",
+      "ATQ: 2900 - 3300+",
+      "TAXA DE ACERTO DE EFEITO: 100% (Início) - 120%+ (Recomendado)",
+      "VEL: 134 (Recomendado) / 143 / 160"
+    ],
+    "comentario": "A debuffer mais elegante do mundo rs"
+  },
+  "boothill hsr": {
+    "nome": "Boothill",
+    "jogo": "HSR",
+    "build": [
+      "HP: 2900 - 3200+",
+      "EFEITO DE QUEBRA: 260% - 340%",
+      "VEL: 134 / 143 (Recomendado) / 160+",
+      "RECARGA DE ENERGIA: 19.44%+"
+    ],
+    "comentario": "Boothill quebra tudo literalmente."
+},
+"castorice hsr": {
+    "nome": "Castorice",
+    "jogo": "HSR",
+    "build": [
+      "HP: 7000 - 8000+",
+      "DEF: 700+",
+      "TAXA CRÍTICA: 80% - 100% (Incluindo Poeta)",
+      "DANO CRÍTICO: 200% - 220%+",
+      "VEL: Velocidade Base ou menor que 95"
+    ],
+    "comentario": "Nossa Hua Cheng do HSR só que com menos correntes e mais versos sombrios."
+  },
+  "bronya hsr": {
+    "nome": "Bronya",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3000 - 4000+",
+      "DEF: 800 - 1100+",
+      "SPD: 1-2 abaixo do carry / 160+ (Se o carry for 0 SPD)",
+      "RECARGA DE ENERGIA: 19.44%+",
+      "DANO CRÍTICO: 175 - 210%+"
+    ],
+    "comentario": "Bronya sempre pronta pra salvar geral com dano e estilo."
+  },
+  "cipher hsr": {
+    "nome": "Cipher",
+    "jogo": "HSR",
+    "build": [
+      "HP: 2800 - 3200+",
+      "DEF: 1000 - 1200+",
+      "SPD: 170+ (em combate)",
+      "ATQ: 2200 - 2700 (com corda de ATK%)",
+      "TAXA DE CRÍTICO: 100% (em combate) / 50% (fora de combate)",
+      "DANO CRÍTICO: 130 - 160%+",
+      "ACERTO DE EFEITO: 39% (Assinatura/Habilidade) / 67% (Pérolas de Suor)"
+    ],
+    "comentario": "Cipher é a calculista que controla o flow da batalha e garante dano pesado com precisão cirúrgica."
+  },
+  "clara hsr": {
+    "nome": "Clara",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3200+",
+      "DEF: 800 - 900+",
+      "ATQ: 3200 - 3600+",
+      "TAXA DE CRÍTICO: 60% - 70%+",
+      "DANO CRÍTICO: 120% - 140%+",
+      "SPD: 90 / 100 (para lutas longas)"
+    ],
+    "comentario": "A queen do dano sólido, perfeita pra batalha longa e sem mimimi."
+  },
+  "dan heng hsr": {
+    "nome": "Dan Heng",
+    "jogo": "HSR",
+    "build": [
+      "HP: 2800 - 3000+",
+      "DEF: 800 - 900+"
+    ],
+    "comentario": "Dan Heng, o boy que nunca decepciona."
+  },
+  "imbibitor lunae hsr": {
+    "nome": "Imbibitor Lunae",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3200+",
+      "DEF: 800+",
+      "ATQ: 2200 - 2600+",
+      "TAXA DE CRÍTICO: 75% - 85%+",
+      "DANO CRÍTICO: 145% - 165%+",
+      "SPD: Velocidade base (Hyperspeed Sparkle/Bronya)"
+    ],
+    "comentario": "Imbibitor literalmente que domina o campo com dano consistente e agilidade."
+  },
+  "dr.ratio hsr": {
+    "nome": "Dr. Ratio",
+    "jogo": "HSR",
+    "build": [
+      "HP: 2800 - 3000+",
+      "DEF: 900 - 1000+",
+      "ATQ: 2700 - 3100+",
+      "TAXA DE CRÍTICO: 90% - 100% (incluindo buffs próprios)",
+      "DANO CRÍTICO: 180% - 200%+ (incluindo buffs próprios)",
+      "SPD: Velocidade base / 134 (Recomendado) / 143 / 161"
+    ],
+    "comentario": "O mestre do crítico absurdo, um perigo ambulante em campo."
+  },
+  "feixiao hsr": {
+    "nome": "Feixiao",
+    "jogo": "HSR",
+    "build": [
+      "HP: 2800+",
+      "DEF: 900+",
+      "ATQ: 2700 - 3300+ (depende se usa bota de SPD ou ATK%)",
+      "TAXA DE CRÍTICO: 85% - 95%",
+      "DANO CRÍTICO: 134% - 154%",
+      "SPD: 112+ (build focada em ATK, depende do time pra gerar Aureus)",
+      "SPD: 134+ (pra alcançar breakpoint do MoC sem buffs, com buffs pode diminuir)"
+    ],
+    "comentario": "Feixiao é o blend perfeito entre velocidade e poder, sempre pronta pra causar o caos."
+},
+  "firefly hsr": {
+    "nome": "Firefly",
+    "jogo": "HSR",
+    "build": [
+      "HP: 2600+",
+      "SPD: 150 (fora de Combustão) / 210 (em Combustão)",
+      "Break Effect: 360%",
+      "165+ SPD fora da Combustão garante ação extra no Ciclo 0 do Moc"
+    ],
+    "comentario": "Quando ela entra em combustão nem o tempo acompanha essa desgraçada!"
+  },
+  "fu xuan hsr": {
+    "nome": "Fu Xuan",
+    "jogo": "HSR",
+    "build": [
+      "HP: 6500 - 8000 (com Matriz ativa)",
+      "DEF: 1400 - 1600",
+      "SPD: 134 / 143 / 160",
+      "Recarga de Energia: 19.44%+"
+    ],
+    "comentario": "Essa mulher tanka até dívida de cartão de crédito e ainda sai intacta."
+  },
+  "gallagher hsr": {
+    "nome": "Gallagher",
+    "jogo": "HSR",
+    "build": [
+      "HP: 4300 - 4700+",
+      "DEF: 800+",
+      "SPD: 134 / 143 / 160",
+      "Break Effect: 60% (máximo 150%)"
+    ],
+    "comentario": "novinho gostoso que te cura na base do suco... e do soco se precisar."
+  },
+  "gepard hsr": {
+    "nome": "Gepard",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3000 - 3500+",
+      "DEF: 2400 - 2900+",
+      "SPD: 100 / 121 / 134+",
+      "Recarga de Energia: 19.44%+"
+    ],
+    "comentario": "O escudo dele aguenta mais que minha paciência nas segundas-feiras."
+  },
+  "guinaifen hsr": {
+    "nome": "Guinaifen",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3000+",
+      "DEF: 800 - 900+",
+      "ATK: 2600 - 3000+",
+      "SPD: 134 / 143 (Recomendado)",
+      "Taxa de Acerto de Efeito: 67%"
+    ],
+    "comentario": "Rainha do deboche e da pirotecnia, causa mais status do que fofoqueira em grupo de família."
+  },
+  "hanya hsr": {
+    "nome": "Hanya",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3500 - 4400+",
+      "DEF: 700 - 1300+",
+      "SPD: 165 - 175+",
+      "Recarga de Energia: 19.44%+"
+    ],
+    "comentario": "Acelerada mais que cafeína em dia de entrega de TCC."
+  },
+  "herta hsr": {
+    "nome": "Herta",
+    "jogo": "HSR",
+    "build": [
+      "HP: 2800 - 3000+",
+      "DEF: 900 - 1100+",
+      "ATK: 2000 - 2400+",
+      "Taxa Crítica: 65% - 70%+",
+      "Dano Crítico: 130% - 150%+",
+      "SPD: Velocidade Base (build FUA) / 134+"
+    ],
+    "comentario": "kururin."
+  },
+"himeko hsr": {
+    "nome": "Himeko",
+    "jogo": "HSR",
+    "build": [
+      "HP: 2800 - 3000+",
+      "DEF: 800+",
+      "ATK: 2500 - 2900+",
+      "Taxa Crítica: 65% - 70%+",
+      "Dano Crítico: 130% - 140%+",
+      "SPD: Velocidade Base",
+      "Se for build Super Breaker, foque em Break Effect e esquece Crítico"
+    ],
+    "comentario": "Se não explodir tudo em volta ela nem levanta da cadeira."
+  },
+  "hook hsr": {
+    "nome": "Hook",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3500+",
+      "DEF: 700 - 800+",
+      "ATK: 2400 - 2800+",
+      "Taxa Crítica: 60% - 70%+",
+      "Dano Crítico: 120% - 140%+",
+      "SPD: Velocidade Base / 134 (Recomendado) / 143"
+    ],
+    "comentario": "Se duvidar ela bota até o Gepard pra correr."
+  },
+  "huohuo hsr": {
+    "nome": "Huohuo",
+    "jogo": "HSR",
+    "build": [
+      "HP: 5600 - 6400+",
+      "DEF: 800 - 900+",
+      "SPD: 134 / 143 / 160",
+      "Recarga de Energia: 119.44%+"
+    ],
+    "comentario": "Exorciza os problemas e ainda te deixa com a vida no talo."
+  },
+  "hyacine hsr": {
+    "nome": "Hyacine",
+    "jogo": "HSR",
+    "build": [
+      "HP: 4300 - 5000+",
+      "DEF: 1000+",
+      "Dano Crítico: 100 - 120%+",
+      "SPD: 200+ (em combate)",
+      "RES de Efeito: 32% (pra ficar imune com a passiva)"
+    ],
+    "comentario": "Essa ai é Resistente até a fake news."
+  },
+  "jade hsr": {
+    "nome": "Jade",
+    "jogo": "HSR",
+    "build": [
+      "HP: 2800+",
+      "DEF: 900+",
+      "ATK: 2700 - 3000+",
+      "Taxa Crítica: 75% - 100%",
+      "Dano Crítico: 100% - 120%+",
+      "SPD: 103 (Base) / 134"
+    ],
+    "comentario": "A executiva que dá crit igual cobra boleto: sem dó nem piedade."
+  },
+  "jiaoqiu hsr": {
+    "nome": "Jiaoqiu",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3000+",
+      "DEF: 900+",
+      "ATK: 4000+ (em combate com boost máx.)",
+      "Taxa de Acerto de Efeito: 140%+",
+      "SPD: Mais que todos os DPS e ainda dá pra subir"
+    ],
+    "comentario": "Com esse tanto de ATK, até a Seele pede licença pra bater depois dele."
+  },
+  "jing yuan hsr": {
+    "nome": "Jing Yuan",
+    "jogo": "HSR",
+    "build": [
+      "HP: 2800 - 3000+",
+      "DEF: 900 - 1100+",
+      "ATK: 2600 - 3000+",
+      "Taxa Crítica: 80% - 90%+ (com buffs)",
+      "Dano Crítico: 140% - 160%+",
+      "SPD: 134+ com Sunday / Velocidade Base com Sparkle ou Hanya muito rápida"
+    ],
+    "comentario": "Já ganhou tan tan ( ou apanhou tan tan )."
+  },
+  "jingliu hsr": {
+    "nome": "Jingliu",
+    "jogo": "HSR",
+    "build": [
+      "HP: 6000 - 7400+",
+      "DEF: 800 - 900+",
+      "Taxa Crítica: 50% (sem talento, com buffs)",
+      "Dano Crítico: 110% - 150%+ (antes do buff do traço)",
+      "SPD: 135 (ou 1 SPD mais rápido que o buffer)"
+    ],
+    "comentario": "Lendária tanque que sobrevive até ao meta nos dias de hoje."
+  },
+  "kafka hsr": {
+    "nome": "Kafka",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3000+",
+      "DEF: 900+",
+      "ATK: 2500 - 3000+",
+      "Taxa de Acerto de Efeito: 75%+ (pra acertar os cones)",
+      "SPD: 160+"
+    ],
+    "comentario": "Ela pisa na cara da inércia aplicando efeito até no inimigo que nem tá olhando."
+  },
+  "lingsha hsr": {
+    "nome": "Lingsha",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3400 - 3600+",
+      "DEF: 800+",
+      "ATK: 2000 - 2200+",
+      "Break Effect: 100%+",
+      "SPD: 151 (mínimo) - 160+ (menos se tiver buffs de velocidade)"
+    ],
+    "comentario": "Faz mais break que ex que não te larga rs e ainda destrói tudo com estilo."
+  },
+  "luka hsr": {
+    "nome": "Luka",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3000+",
+      "DEF: 900 - 1000+",
+      "ATK: 2400 - 2800+",
+      "SPD: 134 / 143 (recomendado) / 160",
+      "Taxa de Acerto de Efeito: 67%",
+      "Break Effect: 0% - 120%"
+    ],
+    "comentario": "Ele é tipo aquele crush que te deixa na dúvida mas quando ataca não perdoa."
+  },
+  "loucha hsr": {
+    "nome": "Loucha",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3500 - 4000+",
+      "DEF: 800+",
+      "ATK: 2400 - 2600+",
+      "SPD: 134 / 143 / 160",
+      "Recarga de Energia: 19.44%+"
+    ],
+    "comentario": "Esse ai cura até a sua alma podre rs."
+  },
+  "lynx hsr": {
+    "nome": "Lynx",
+    "jogo": "HSR",
+    "build": [
+      "HP: 5000 - 5700+",
+      "DEF: 900 - 1200+",
+      "SPD: 134 / 143 / 160",
+      "Recarga de Energia: 19.44%+"
+    ],
+    "comentario": "lynx ta sempre com a energia até no talo, tipo bateria de celular Xiaomi."
+  },
+  "7 de março hsr": {
+    "nome": "7 de março",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3000+",
+      "DEF: 1800 - 2200+ (build de EHR)",
+      "DEF: 2800 - 3400+ (build sem freeze)",
+      "SPD: 134 / 143 / 160",
+      "Recarga de Energia: 19.44%+",
+      "Taxa de Acerto de Efeito: 64% - 92% (recomendada) / 0% (sem freeze)"
+    ],
+    "comentario": "Versátil que nem a gente na vida, sabe lidar com tudo inclusive com haters."
+  },
+  "misha hsr": {
+    "nome": "Misha",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3000+",
+      "DEF: 800 - 1000+",
+      "ATK: 2000 - 2400+",
+      "Taxa Crítica: 65% - 70%+",
+      "Dano Crítico: 120% - 130%+",
+      "SPD: Velocidade Base (Hyperspeed Sparkle/Bronya) / 134+"
+    ],
+    "comentario": "nunca falha no crítico e ainda vem com estilo jogando tudo pros D."
+  },
+  "moze hsr": {
+    "nome": "Moze",
+    "jogo": "HSR",
+    "build": [
+      "ATK: 2400 - 2600+",
+      "Taxa Crítica: 80% - 100%",
+      "Dano Crítico: 120% - 140%+",
+      "SPD: Velocidade suficiente para agir primeiro e não voltar depois de muita ação aliada"
+    ],
+    "comentario": "Passa e arrasa."
+  },
+  "mydei hsr": {
+    "nome": "Mydei",
+    "jogo": "HSR",
+    "build": [
+      "HP: 8000",
+      "Taxa Crítica: 90% - 100% (em combate)",
+      "Dano Crítico: 160%+",
+      "SPD: Velocidade Base ou 134+"
+    ],
+    "comentario": "MYDEI PAPAI."
+  },
+  "natasha hsr": {
+    "nome": "Natasha",
+    "jogo": "HSR",
+    "build": [
+      "HP: 5200 - 6100+",
+      "DEF: 800 - 1000+",
+      "SPD: 134 (Recomendado) / 143 / 160",
+      "Recarga de Energia: 19.44%+"
+    ],
+    "comentario": "sempre pronta pra dar aquele suporte maroto."
+  },
+  "pela hsr": {
+    "nome": "Pela",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3500 - 4000+",
+      "DEF: 1000+",
+      "SPD: 134 / 143 (Recomendado) / 160+",
+      "Recarga de Energia: 19.44%+",
+      "Taxa de Acerto de Efeito: 67%"
+    ],
+    "comentario": "Só não chama ela de lerda porque essa mina chega voando e aplicando efeito como um raio."
+  },
+  "phainon hsr": {
+    "nome": "Phainon",
+    "jogo": "HSR",
+    "build": [
+      "ATK: 2200 - 2600+",
+      "HP: 3200+",
+      "DEF: 1000+",
+      "Taxa Crítica: 90% - 100%",
+      "Dano Crítico: 160% - 180%+ (antes do buff de traço)",
+      "SPD: Construir 1 SPD a mais que os boosters para mais ações"
+    ],
+    "comentario": "Rápido e mortal."
+  },
+  "qingque hsr": {
+    "nome": "Qingque",
+    "jogo": "HSR",
+    "build": [
+      "HP: 2800 - 3000+",
+      "DEF: 800 - 1000+",
+      "ATK: 2500 - 2900+",
+      "Taxa Crítica: 65% - 70%+",
+      "Dano Crítico: 130% - 140%+",
+      "SPD: Velocidade Base (Hyperspeed Sparkle/Bronya) / 134+"
+    ],
+    "comentario": "Bixa se ela acerta..."
+  },
+  "rappa hsr": {
+    "nome": "Rappa",
+    "jogo": "HSR",
+    "build": [
+      "HP: 2800+",
+      "DEF: 800+",
+      "ATK: 3200 (buffado em combate, opcional)",
+      "Break Effect: 160% - 240%+ (antes dos buffs de time)",
+      "SPD: 145 - 150+"
+    ],
+    "comentario": "Ela quebra tudo, literalmente."
+  },
+  "ruan mei hsr": {
+    "nome": "Ruan Mei",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3700 - 5000+",
+      "DEF: 1000 - 1100+",
+      "SPD: 109 / 121 / 134 (Recomendado)",
+      "Recarga de Energia: 119.44%+",
+      "Break Effect: 180%+ (com A2 ativo)"
+    ],
+    "comentario": "A rainha do gelo que faz break e recarga energia pras nós noobs."
+  },
+  "saber hsr": {
+    "nome": "Saber",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3300+",
+      "DEF: 1000+",
+      "ATK: 2600 - 3000+",
+      "Taxa Crítica: 100% (em combate com talento e buffs)",
+      "Dano Crítico: 150% - 180%+",
+      "SPD: 135 Base SPD (ou 1 SPD mais rápido que booster)"
+    ],
+    "comentario": "Sempre cravando no crítico e arrebentando geral."
+  },
+
+  "sunday hsr": {
+    "nome": "Sunday",
+    "jogo": "HSR",
+    "build": [
+      "HP: 4000 - 4500+",
+      "DEF: 1000 - 1200+",
+      "Dano Crítico: 180 - 220%+",
+      "Recarga de Energia: 119.44 - 124.44%+",
+      "SPD (-1 SPD Build): 134 ou 1 abaixo do carry",
+      "SPD (Hyperspeed): 160+ ou o mais rápido possível"
+    ],
+    "comentario": "Nosso franguinho estiloso."
+  },
+  "sushang hsr": {
+    "nome": "Sushang",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3000+",
+      "DEF: 800 - 1000+",
+      "ATK: 1900 - 2700+",
+      "Taxa Crítica: 60% - 70%+",
+      "Dano Crítico: 120% - 140%+",
+      "SPD: Base / 134 (Recomendado) / 143 / 160",
+      "Break Effect: 0% - 120%+"
+    ],
+    "comentario": "Sushang é aquela que chega com cara de Uma princesa e sai quebrando tudo."
+  },
+  "the herta hsr": {
+    "nome": "The Herta",
+    "jogo": "HSR",
+    "build": [
+      "ATK: 2500 - 2900+",
+      "HP: 2800+",
+      "DEF: 850+",
+      "Taxa Crítica: 90 - 100%",
+      "Dano Crítico: 100 - 120%+",
+      "SPD: Base / 134 / 160 (depende do modo, relíquia e time)"
+    ],
+    "comentario": "kurukurukurin 2.0 só que mais apelão."
+  },
+  "sampo hsr": {
+    "nome": "Sampo",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3000+",
+      "DEF: 800 - 900+",
+      "ATK: 2800 - 3200+",
+      "SPD: 134 / 143 (Recomendado) / 160",
+      "Taxa de Acerto de Efeito: 67% - 80%"
+    ],
+    "comentario": "Pior que leva golpe de alguém,te destrói todo."
+  },
+  "seele hsr": {
+    "nome": "Seele",
+    "jogo": "HSR",
+    "build": [
+      "HP: 2800 - 3000+",
+      "DEF: 800 - 900+",
+      "ATK: 2900 - 3300+",
+      "Taxa Crítica: 80%+ (mas a gente sabe que sem 100%, ela quase nunca crava)",
+      "Dano Crítico: 160%+",
+      "SPD: 115"
+    ],
+    "comentario": "A rainha da bad vibe que exige 100% crit, porque se não for perfeito ela nem sai do lugar rs."
+  },
+  "serval hsr": {
+    "nome": "Serval",
+    "jogo": "HSR",
+    "build": [
+      "HP: 2800 - 3000+",
+      "DEF: 800+",
+      "ATK: 2200 - 2600+",
+      "Taxa Crítica: 65% - 75%+",
+      "Dano Crítico: 130% - 150%+",
+      "SPD: 134+ / 160+ (Equipe com Eagle + Passkey The Herta)"
+    ],
+    "comentario": "Se buildar direito, não tem quem segure essa muie."
+  },
+  "silver wolf hsr": {
+    "nome": "Silver Wolf",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3000+",
+      "DEF: 900+",
+      "Taxa de Acerto de Efeito: 50 - 67%",
+      "SPD: 160+",
+      "Opcional para Endgame:",
+      "ATK: 2000 - 2500+",
+      "Taxa Crítica: 50%+",
+      "Dano Crítico: 100%+"
+    ],
+    "comentario": "Minha parceira ai."
+  },
+  "sparkle hsr": {
+    "nome": "Sparkle",
+    "jogo": "HSR",
+    "build": [
+      "HP: 4000 - 4500+",
+      "DEF: 800 - 1000+",
+      "Dano Crítico: 175 - 210%+",
+      "Recarga de Energia: 119.44%+",
+      "SPD: 160+"
+    ],
+    "comentario": "Sparkle sempre garantindo que o hypercarry faça a festa com energia cheia."
+  },
+  "tiguan_hsr": {
+    "nome": "Tiguan",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3000 - 3500+",
+      "DEF: 900 - 1100+",
+      "ATK: 2400 - 2600+",
+      "SPD: 134 / 143 (Recomendado) / 160+",
+      "Recarga de Energia: 119,44%+"
+    ],
+    "comentario": "Tiguan chega toda misteriosa e já causa aquele dano refinado com elegância cósmica."
+  },
+  "fugue_hsr": {
+    "nome": "Fugue",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3000 - 4000+",
+      "DEF: 900 - 1400+",
+      "EFEITO DE QUEBRA%: 190%+ ou 220%+ com Iron Cavalry",
+      "taxa de acerto de efeito: 67%",
+      "recarga de energia: 100% - 124.44%+",
+      "SPD: 142 - 160+ "
+    ],
+    "comentario": "Fugue é sinfonia de debuff, quebra e destruição com classe. Causa dano e ainda dá aula de build avançada."
+  },
+  "topaz_hsr": {
+    "nome": "Topaz",
+    "jogo": "HSR",
+    "build": [
+      "HP: 2800 - 3000+",
+      "DEF: 800 - 900+",
+      "ATK: 2100 - 2800+",
+      "CRIT RATE: 80% - 90%+",
+      "CRIT DMG: 150% - 170%+",
+      "SPD: 134 (Recomendado) / 143+"
+    ],
+    "comentario": "Topaz e Dinheiro a Dupla do Caos literalmente."
+  },
+  "desbravador destruicao hsr": {
+    "nome": "Desbravador (Destruição)",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3400+",
+      "DEF: 800 - 1000+",
+      "ATQ: 2000 - 2800+",
+      "Taxa CRIT: 65% - 70%+",
+      "Dano CRIT: 120% - 130%+",
+      "SPD: Velocidade Base (com Sparkle Hyperspeed) / 134 (Recomendado) / 143",
+      "Efeito de Quebra: 0% - 120%+"
+    ],
+    "comentario": "Esse aqui bate e ainda te julga por não ter farmado relíquia direito"
+  },
+
+  "desbravador harmonia hsr": {
+    "nome": "Desbravador (Harmonia)",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3500 - 4500+",
+      "DEF: 950 - 1350+",
+      "SPD: 134 - 145+ (se usar Talia)",
+      "Efeito de Quebra: 150% - 250%+ (sem contar o buff do Ultimate)",
+      "Recarga de Energia: 0% - 19.44%+"
+    ],
+    "comentario": "Harmonia com tapa na cara, porque buff é pouco se não brilhar "
+  },
+
+  "desbravador recordacao hsr": {
+    "nome": "Desbravador (Recordação)",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3000 - 3800+",
+      "DEF: 1000 - 1400+",
+      "Dano CRIT: 180 - 220%+",
+      "Recarga de Energia: 119.44 - 124.44%+",
+      "SPD :160+"
+    ],
+    "comentario": "Se tiver 160 de SPD, esse desbravador entra na sua mente antes do inimigo te olhar."
+  },
+
+  "tribbie hsr": {
+    "nome": "Tribbie",
+    "jogo": "HSR",
+    "build": [
+      "HP: 4000 - 6000+",
+      "DEF: 1100 - 1250+",
+      "Taxa CRIT: 80% - 90%+ (Em combate)",
+      "Dano CRIT: 160% - 180%+",
+      "Recarga de Energia: 100% - 124.4%",
+      "SPD: Velocidade Base ou 120+"
+    ],
+    "comentario": "Dessa ai até o Dex tem medo."
+  },
+
+  "welt hsr": {
+    "nome": "Welt",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3000+",
+      "DEF: 800 - 1000+",
+      "ATQ: 2200 - 2600+",
+      "Taxa CRIT: 50% - 60%+",
+      "Dano CRIT: 100% - 120%+",
+      "SPD: 134 (Recomendado) / 143 / 160",
+      "Chance de Acerto de Efeito: 43%"
+    ],
+    "comentario": "Nem lembrava desse veio, mas se o buraco negro dele pega vish..."
+  },
+
+  "xueyi hsr": {
+    "nome": "Xueyi",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3200+",
+      "DEF: 800+",
+      "ATQ: 2000 - 2400+",
+      "Taxa CRIT: 60% - 70%+",
+      "Dano CRIT: 120% - 140%+",
+      "SPD: Velocidade Base (com Sparkle/Bronya) / 134 (Recomendado) / 143 / 160",
+      "Efeito de Ruptura: 100% - 150%"
+    ],
+    "comentario": "Se buildar direito é dano atrás de dano."
+  },
+
+  "yanqing hsr": {
+    "nome": "Yanqing",
+    "jogo": "HSR",
+    "build": [
+      "HP: 2800 - 3000+",
+      "DEF: 800 - 900+",
+      "ATQ: 2500 - 2900+",
+      "Taxa CRIT: 20%",
+      "Dano CRIT: 160% - 200%+",
+      "SPD: Velocidade Base (com Sparkle/Bronya) / 134 (Recomendado) / 143"
+    ],
+    "comentario": "Nosso Jin Ling do hsr, se buildar direito só vai vê critico na tela ( dica do dex : só não pode levar dano se não todos os buff dele sai ein )."
+  },
+
+  "yukong hsr": {
+    "nome": "Yukong",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3700 - 4500+",
+      "DEF: 700 - 1300+",
+      "SPD: 1-2 de velocidade abaixo do suporte",
+      "Recarga de Energia: 19.44%+"
+    ],
+    "comentario": "Yukong nunca deixa teu DPS no chão 🚀"
+  },
+
+  "yunli hsr": {
+    "nome": "Yunli",
+    "jogo": "HSR",
+    "build": [
+      "HP: 3400+",
+      "DEF: 800+",
+      "ATQ: 3200 - 3400+",
+      "Taxa CRIT: 90% - 100%+",
+      "Dano CRIT: 100% - 120%+",
+      "SPD: 94 (Velocidade Base)"
+    ],
+    "comentario": "Buildou, inimigo apanhou."
+  }
+}
+
+
+
+
+
